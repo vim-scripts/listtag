@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3605
+
+Taglist is a useful script for many vim users. But I write programs under the terminal with 80 characters, so if I open the taglist window, the left window become very narrow.
+
+This script allow you list all all functions, types, macro definitions in current file with shortcut key, and jump to one of your choise. And you can jump between with .h and .cpp files quickly.
+
+" Usage:
+"               <Ctrl-J>    /* list functions */
+"               <Ctrl-P>    /* list functions prototype */
+"               <Ctrl-K>    /* list types */
+"               <Ctrl-N>    /* list macro definitions */
+"               <Ctrl-H>    /* jump between with .h/.c files */
